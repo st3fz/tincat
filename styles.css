@@ -28,8 +28,10 @@ p {
 /* Containers */
 
 .container-fluid{
-  padding: 7% 15%;
+  padding: 7% 20%;
 }
+
+.small-space {padding: 2% 15%;}
 
 /* Sections */
 
@@ -42,9 +44,6 @@ p {
   background-color: #fff;
 }
 
-.container-fluid.colored-section-padding-up {padding:150px 0 50px 0;}
-
-.colored-section-padding-down {padding:0 0 50px 0;}
 
 
 /* Navigation Bar */
@@ -145,12 +144,12 @@ p {
 }
 
 #press {
-  background-color: #ef8172;
+  background-color: white;
   padding-bottom: 3%;
 }
 
 .press-logo {
-  width: 15%;
+  width: 10%;
   margin: 20px 20px 50px;
 }
 
