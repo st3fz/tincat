@@ -42,12 +42,14 @@ p {
   background-color: #fff;
 }
 
-.colored-section-padding-up {padding:50px 0 0 0;}
+.container-fluid.colored-section-padding-up {padding:150px 0 50px 0;}
 
 .colored-section-padding-down {padding:0 0 50px 0;}
 
 
 /* Navigation Bar */
+
+.material-icons {font-size: 28px !important;}
 
 .navbar {
   padding: 0 0 4.5rem;
@@ -97,6 +99,8 @@ p {
   position: absolute;
   right: 20%;
 }
+
+.first-page {height: 100%;}
 
 /* Features Section */
 
